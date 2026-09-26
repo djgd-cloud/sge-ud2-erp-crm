@@ -53,3 +53,12 @@ SECCIÓN 2 - Fichas técnicas
     - Módulos principales: Lead & Opportunity Management, Pipeline Inspection, etc...
     - Requisitos: Navegador web moderno con soporte JavaScript/HTML5 en escritorio.
     - Bibiografía: https://www.salesforce.com/products/sales-cloud/
+
+
+SECCIÓN 3 - Fe de erratas del tema
+
+- Primer fallo
+    En el tema menciona a Odoo como un ERP libre, cuando este no es 100% un software libre desde hace ya varios años, sino que funciona como un modelo mixto.
+
+- Segundo fallo
+    SuiteCRM no fue desarrollado por la comunidad SugarCRM, sino que nació como un fork independiente impulsado por la empresa británica SalesAgility.
